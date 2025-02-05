@@ -46,6 +46,7 @@
 - [Ramya Swetha Vejendla](https://github.com/RamyaSwethaVejendla11)
 - [Xerx](https://github.com/Xerx81)
 - [RandithaK](https://github.com/RandithaK)
+- [23-shreshta](https://github.com/23-shreshta)
 - [Rashmika Naveen](https://github.com/rashmikanaveen)
 - [alismx](https://github.com/alismx)
 - [sandeepgurram](https://github.com/gurram46)
