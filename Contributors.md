@@ -2870,6 +2870,7 @@
 - [Jayden Krishna](https://github.com/JaydenKrishna)
 - [Aegdae](https://github.com/Aegdae)
 - yhliu
+- prahalad singh
 - [Mohamed Sano]
 - [Raeef Chowdhury](https://github.com/Raeef-Chowdhury) 15 year old aspiring bengali Developer 💪💪💪
 - [Parth Dubal] (<https://github.com/Parth00>)
@@ -2899,4 +2900,5 @@
 - [Kshitij](https://github.com/dkshitij29)
 - [Mihjan Muhammad Ibrahim](https://github.com/mmigetso)
 - [Lee Y M](https://github.com/rabbit-friend)
+-[prahalad singh](https://github.com/Prahaladsingh221/Prahalad.git)
 - [ddelimond](https://github.com/ddelimond/)
