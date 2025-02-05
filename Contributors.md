@@ -31,6 +31,7 @@
 - [Durgesh Shekhawat](https://github.com/durgeshhhhhhh)
 - [Omkar Nath](https://github.com/nathomkar799/first-contributions)
 - mridul vaishnav
+- Janis Anup
 - [Mrinal Singh](https://github.com/MrinalSingh04)
 - [Shalini](https://github.com/ShaliniKashyap717)
 - [Deepak](https://github.com/deepaksingh126)
