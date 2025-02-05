@@ -61,7 +61,8 @@
 - [Aman Deshpande](https://github.com/amandesh694)
 - Janne
 - Aayush Gupta
-- datascrapper
+- datascrapper 
+- [S-01-Cell](https://github.com/S-01-Cell)
 - [Amirul Hamiezan from Terengganu](https://github.com/mirul-Work)
 - [DavidOlbrz](https://github.com/DavidOlbrz)
 - [JT](https://github.com/jayyyyteee)
