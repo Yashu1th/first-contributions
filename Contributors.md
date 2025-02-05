@@ -61,6 +61,7 @@
 - [Aman Deshpande](https://github.com/amandesh694)
 - Janne
 - Aayush Gupta
+- [Boopathi](https://github.com/Boopathi07-Arise)
 - datascrapper
 - [Amirul Hamiezan from Terengganu](https://github.com/mirul-Work)
 - [DavidOlbrz](https://github.com/DavidOlbrz)
