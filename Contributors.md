@@ -62,6 +62,7 @@
 - Janne
 - Aayush Gupta
 - datascrapper
+- swetha
 - [Amirul Hamiezan from Terengganu](https://github.com/mirul-Work)
 - [DavidOlbrz](https://github.com/DavidOlbrz)
 - [JT](https://github.com/jayyyyteee)
