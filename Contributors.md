@@ -216,6 +216,7 @@
 - Jasmeet
 - Aayush Gupta
 - datascrapper
+- suneri
 - [Amirul Hamiezan from Terengganu](https://github.com/mirul-Work)
 - [DavidOlbrz](https://github.com/DavidOlbrz)
 - [Faiz From C.D.G](https://github.com/faizr93)
